@@ -1,2 +1,1 @@
-# flavia-prado-financeiro
-Painel financeiro conectado ao Firebase Hosting
+Painel financeiro privado por autenticação Firebase.
